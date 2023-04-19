@@ -1,0 +1,4 @@
+staffNo,fullName,department,role,emailAddress,salary
+11111,Hellow,Computer Science,Worker,hellow@visa.com,23000
+22222,Helloow,Computer Engineering,Worker,helloow@visa.com,24000
+33333,Hellooow,Computer Science,Boss,hellooow@visa.com,100000
